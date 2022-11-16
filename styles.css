@@ -47,6 +47,14 @@
 }
 
 
+.clicked .cardBack {
+  display: none;
+}
+
+.clicked .cardFront {
+  display: block;
+}
+
 /*CSS From Tutorial/* {
   margin: 0;
   padding: 0;
